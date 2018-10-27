@@ -12,4 +12,6 @@ The input image should only contain 3 characters as in the below specified manne
 
 ## Sample Image (included)
 A sample online image has been included with the program, so that it can be instantly viewed through the python anywhere ide.
+
+
 ![Sample Image](http://13.127.3.3/wp-content/uploads/image-1.png)
